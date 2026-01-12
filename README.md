@@ -1,31 +1,36 @@
 # Escape from Uni Game 
 Maze game created using Java for ENG1.
 
-### THE PDF DOCUMENTS ARE STORED IN THE FOLDER ENTITLED 'PDF DOCUMENTS' AND ALSO AVAILABLE BELOW
-
 ### Link to the GitHub Repository
-<a href="https://github.com/haarisaltaf/Team10Maze">GitHub Repository</a>
+<a href="https://github.com/haarisaltaf/escape-from-uni">GitHub Repository</a>
+
+<details>
+<summary><strong><span style="font-size: 1.6em;">Assessment 1 Documentation</span></strong></summary>
+<a href="https://drive.google.com/file/d/1Hgd4vTJ5N_BBwlT92-7vdJ-tNK3ZzNbp/view?usp=drive_link">Updated Requirements (Req1.pdf)</a><br>
+<a href="https://drive.google.com/file/d/1argPf9pQ2GAkArLMC12qPsLHICLNIhCC/view?usp=sharing">Updated Architecture (Arch1.pdf)</a><br>
+<a href="https://drive.google.com/file/d/1hRtcdaW9J4uew12p8ApdigCHjG9S_Rvn/view?usp=drive_link">Updated Method Selection and Planning (Plan1.pdf)</a>
+<br>
+<a href="https://drive.google.com/file/d/1Bnf6GXtxXmRcdF38c6dxREUE3fmsUMTX/view?usp=drive_link">Updated Risk Assessment and Mitigation (Risk1.pdf) </a>
+<br>
+<a href="https://drive.google.com/file/d/13XwSZQI3rr-pVcf84mjbjaLBU3u3-p4_/view?usp=sharing">Implementation (Impl1.pdf)</a>
+</details>
+
+<details>
+<summary><strong><span style="font-size: 1.6em;">Assessment 2 Documentation</span></strong></summary>
+<a href="https://drive.google.com/file/d/1Hgd4vTJ5N_BBwlT92-7vdJ-tNK3ZzNbp/view?usp=drive_link">Change Report (Change2.pdf)</a><br>
+<a href="https://drive.google.com/file/d/1argPf9pQ2GAkArLMC12qPsLHICLNIhCC/view?usp=sharing">Implementation (Impl2.pdf)</a><br>
+<a href="https://drive.google.com/file/d/1hRtcdaW9J4uew12p8ApdigCHjG9S_Rvn/view?usp=drive_link">Testing (Test2.pdf)</a>
+<br>
+<a href="https://drive.google.com/file/d/1Bnf6GXtxXmRcdF38c6dxREUE3fmsUMTX/view?usp=drive_link">User Evaluation (Eval2.pdf) </a>
+<br>
+<a href="https://drive.google.com/file/d/13XwSZQI3rr-pVcf84mjbjaLBU3u3-p4_/view?usp=sharing">Continuous Integration (CI2.pdf)</a>
+</details>
 
 ### Link to the .jar executable file.
 <a href="https://drive.google.com/file/d/18Z9tZHeaCeItrXPJ3hrTZo7PACtVBSsv/view?usp=sharing">LongBoiOnTheRun.jar</a>
 
 ### Link to the version control repository (GitHub Commits Page)
 <a href="https://github.com/haarisaltaf/Team10Maze/commits/main/">Team10Maze Commits</a>
-
-### References and Notes
-References to the creators of assets are in the credits below
-
-<details>
-<summary><strong><span style="font-size: 1.6em;">All PDF Documents</span></strong></summary>
-<a href="https://drive.google.com/file/d/1Hgd4vTJ5N_BBwlT92-7vdJ-tNK3ZzNbp/view?usp=drive_link">Requirements PDF (Req1.pdf)</a><br>
-<a href="https://drive.google.com/file/d/1argPf9pQ2GAkArLMC12qPsLHICLNIhCC/view?usp=sharing">Architecture PDF (Arch1.pdf)</a><br>
-<a href="https://drive.google.com/file/d/1hRtcdaW9J4uew12p8ApdigCHjG9S_Rvn/view?usp=drive_link">Method Selection and Planning PDF(Plan1.pdf)</a>
-<br>
-<a href="https://drive.google.com/file/d/1Bnf6GXtxXmRcdF38c6dxREUE3fmsUMTX/view?usp=drive_link">Risk Assessment and Mitigation PDF (Risk1.pdf) </a>
-<br>
-<a href="https://drive.google.com/file/d/13XwSZQI3rr-pVcf84mjbjaLBU3u3-p4_/view?usp=sharing">Implementation PDF (Impl1.pdf)</a>
-
-</details>
 
 <details>
 <summary><strong><span style="font-size: 1.6em;">Architecture Documentation Additional Content</span></strong></summary>
@@ -44,7 +49,6 @@ At the end of week 1, we completed team building exercises. We decided to wait u
 <br>
 <img width="689" height="816" alt="end of week 1" src="https://github.com/user-attachments/assets/5a49c37d-ae56-4daf-bd64-137cef93f0bc" />
 <br>
-
 
 <h3>End of Week 2</h3>
 At the end of week 2, we researched our chosen game engine and brainstormed our game’s design and idea. We allocated roles according to our skills and began working in small groups or individually on each part of the project. 
