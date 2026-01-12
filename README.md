@@ -25,13 +25,13 @@ Maze game created using Java for ENG1.
 
 <details>
 <summary><strong><span style="font-size: 1.6em;">Assessment 2 Documentation</span></strong></summary>
-<a href="https://drive.google.com/file/d/1Hgd4vTJ5N_BBwlT92-7vdJ-tNK3ZzNbp/view?usp=drive_link">Change Report (Change2.pdf)</a><br>
-<a href="https://drive.google.com/file/d/1argPf9pQ2GAkArLMC12qPsLHICLNIhCC/view?usp=sharing">Implementation (Impl2.pdf)</a><br>
-<a href="https://drive.google.com/file/d/1hRtcdaW9J4uew12p8ApdigCHjG9S_Rvn/view?usp=drive_link">Testing (Test2.pdf)</a>
+<a href="https://drive.google.com/file/d/19dRdTJ2HBrAceSA-b5lrqeAuRJ34Y7GL/view?usp=sharing">Change Report (Change2.pdf)</a><br>
+<a href="https://drive.google.com/file/d/1EcF3fALpY5fTlYCV90Qgy8lhK40geIj6/view?usp=sharing">Implementation (Impl2.pdf)</a><br>
+<a href="https://drive.google.com/file/d/15SM8v1uyK0zUyuj8g6vWP6TnFmnxjOkA/view?usp=sharing">Testing (Test2.pdf)</a>
 <br>
-<a href="https://drive.google.com/file/d/1Bnf6GXtxXmRcdF38c6dxREUE3fmsUMTX/view?usp=drive_link">User Evaluation (Eval2.pdf) </a>
+<a href="https://drive.google.com/file/d/1d3XD7GEsadGVQIm6qfvBZcUu-ZjA7Q5g/view?usp=sharing">User Evaluation (Eval2.pdf) </a>
 <br>
-<a href="https://drive.google.com/file/d/13XwSZQI3rr-pVcf84mjbjaLBU3u3-p4_/view?usp=sharing">Continuous Integration (CI2.pdf)</a>
+<a href="https://drive.google.com/file/d/1jowns_IcAx6wvlQLYvi3g9Wjkk1vY3uM/view?usp=sharing">Continuous Integration (CI2.pdf)</a>
 </details>
 
 ##Link to JAR File 
