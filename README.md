@@ -56,7 +56,7 @@ This was the first iteration of our architecture which has been expressed as a U
 <h3>Week 5</h3>
 <img width="177" height="131" alt="week5" src="https://github.com/user-attachments/assets/deba2dbc-6a5f-497a-ba5e-9144a0ada344" />
 <h3>Week 6</h3>
-<h3<img width="329" height="131" alt="week6" src="https://github.com/user-attachments/assets/847b77df-c7f9-4644-b453-020047ba7f5b" />
+<img width="329" height="131" alt="week6" src="https://github.com/user-attachments/assets/847b77df-c7f9-4644-b453-020047ba7f5b" />
 <h2>Week 7-13 (Assessment 2)</h2>
 <h2>Assessment 2</h2>
 <h3>Week 7</h3>
@@ -89,17 +89,3 @@ This was the first iteration of our architecture which has been expressed as a U
 <img width="444" height="228" alt="ProjectTimelineW12" src="https://github.com/user-attachments/assets/6e579f2f-e107-48e3-b37f-11e840fe6686" />
 <br>
 
-</details>
-
-<details>
-<summary><strong><span style="font-size: 1.6em;">Credits</span></strong></summary>
-Styloo Assets (https://styloo.itch.io/2dclassroom)<br>
-Tiled Map Editor (https://www.mapeditor.org/)<br>
-LibGDX Game Engine (https://libgdx.com/)<br>
-Nectanebo (https://nectanebo.itch.io/menu-buttons?download)<br>
-Kenney-Assets (https://kenney-assets.itch.io/splat-pack?download)<br>
-Caz Creates Games (https://caz-creates-games.itch.io/ducky-3)<br>
-Lumi Li (https://lumi-li.itch.io/pixel-bakery-assets?download)<br>
-Zero Faction Games (https://zerofactiongames.com/2015/07/30/game-asset-2d-character-sprite-sheet/)<br>
-
-</details>
