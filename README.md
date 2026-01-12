@@ -44,7 +44,7 @@ This was the first iteration of our architecture which has been expressed as a U
 <details>
 <summary><strong><span style="font-size: 1.6em;">Method Selection and Planning Documentation Additional Content</span></strong></summary>
 <h2>Gantt Charts for Weekly Snapshots</h2>
-<h3>End of Week 1</h3>
+<h3>Assessment 2</h3>
 Week 7
 <br>
 <img width="444" height="228" alt="ProjectTimelineW7" src="https://github.com/user-attachments/assets/7e3eb9cc-5e04-4a80-b304-34bebf877e8f" />
