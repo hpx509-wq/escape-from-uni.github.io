@@ -89,3 +89,10 @@ This was the first iteration of our architecture which has been expressed as a U
 <img width="444" height="228" alt="ProjectTimelineW12" src="https://github.com/user-attachments/assets/6e579f2f-e107-48e3-b37f-11e840fe6686" />
 <br>
 
+
+<details>
+<summary><strong><span style="font-size: 1.6em;">Testing Material for Assessment 2 (Updated for Assessment 2)</span></strong></summary>
+<a href="https://drive.google.com/file/d/1IDYWRxTxDM05fmLu5z_yLrtc_VU55m63/view?usp=share_link">Gradle Tests (Zip file) </a><br>
+<a href="https://drive.google.com/file/d/1aEALEiBEtLzrrxrggHN0Z1w2VewpV1tU/view?usp=share_link">Jacoco Test Report (Zip file) </a><br>
+</details>
+
