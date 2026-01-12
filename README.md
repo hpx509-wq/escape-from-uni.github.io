@@ -33,7 +33,7 @@ Maze game created using Java for ENG1.
 <a href="https://github.com/haarisaltaf/Team10Maze/commits/main/">Team10Maze Commits</a>
 
 <details>
-<summary><strong><span style="font-size: 1.6em;">Architecture Documentation Additional Content</span></strong></summary>
+<summary><strong><span style="font-size: 1.6em;">Architecture Documentation Additional Content (Updated for Assessment 2)</span></strong></summary>
 
 <h3>First Iteration of Architecture - UML Class Diagram</h3>
 <img width="300" height="300" alt="end of week 1" src="https://github.com/user-attachments/assets/b75ce4b9-3815-4bc2-bc5e-64dd1c4871a1"/>
