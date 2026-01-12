@@ -16,10 +16,10 @@ Maze game created using Java for ENG1.
 
 <details>
 <summary><strong><span style="font-size: 1.6em;">Old Assessment 1 Documentation From Previous Team</span></strong></summary>
-<a href="Requirements.pdf">Updated Requirements (Req1.pdf)</a><br>
-<a href="Architecture.pdf">Updated Architecture (Arch1.pdf)</a><br>
-<a href="Method Selection and Planning.pdf">Updated Method Selection and Planning (Plan1.pdf)</a><br>
-<a href="Risk Assesment and Mitigation.pdf">Updated Risk Assessment and Mitigation (Risk1.pdf) </a><br>
+<a href="Requirements.pdf">Requirements (Req1.pdf)</a><br>
+<a href="Architecture.pdf">Architecture (Arch1.pdf)</a><br>
+<a href="Method Selection and Planning.pdf">Method Selection and Planning (Plan1.pdf)</a><br>
+<a href="https://drive.google.com/file/d/10FxrjklPRB6K32phMt1EX58ykNuFB0_e/view?usp=sharing">Risk Assessment and Mitigation (Risk1.pdf) </a><br>
 <a href="Implementation.pdf">Implementation (Impl1.pdf)</a>
 </details>
 
