@@ -6,13 +6,12 @@ Maze game created using Java for ENG1.
 
 <details>
 <summary><strong><span style="font-size: 1.6em;">Updated Assessment 1 Documentation</span></strong></summary>
-<a href="https://drive.google.com/file/d/1Hgd4vTJ5N_BBwlT92-7vdJ-tNK3ZzNbp/view?usp=drive_link">Updated Requirements (Req1.pdf)</a><br>
-<a href="https://drive.google.com/file/d/1argPf9pQ2GAkArLMC12qPsLHICLNIhCC/view?usp=sharing">Updated Architecture (Arch1.pdf)</a><br>
-<a href="https://drive.google.com/file/d/1hRtcdaW9J4uew12p8ApdigCHjG9S_Rvn/view?usp=drive_link">Updated Method Selection and Planning (Plan1.pdf)</a>
+<a href="https://drive.google.com/file/d/1ylp13jABIUWhzMGYT-bmS1uB0vf5AgmS/view?usp=sharing">Updated Requirements (Req1.pdf)</a><br>
+<a href="https://drive.google.com/file/d/1Pck1IokjD9earspwP8QZJkx8Qb8FW7qy/view?usp=drive_link">Updated Architecture (Arch1.pdf)</a><br>
+<a href="https://drive.google.com/file/d/1Se2J4bnU3ySR5pWRiWpc8Kh4jvg6iTo9/view?usp=sharing">Updated Method Selection and Planning (Plan1.pdf)</a>
 <br>
-<a href="https://drive.google.com/file/d/1Bnf6GXtxXmRcdF38c6dxREUE3fmsUMTX/view?usp=drive_link">Updated Risk Assessment and Mitigation (Risk1.pdf) </a>
+<a href="https://drive.google.com/file/d/12cEAuW8kArD887G-GxsyNjCVkzwvacyX/view?usp=sharing">Updated Risk Assessment and Mitigation (Risk1.pdf)</a>
 <br>
-<a href="https://drive.google.com/file/d/13XwSZQI3rr-pVcf84mjbjaLBU3u3-p4_/view?usp=sharing">Implementation (Impl1.pdf)</a>
 </details>
 
 <details>
