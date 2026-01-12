@@ -34,9 +34,7 @@ Maze game created using Java for ENG1.
 <a href="https://drive.google.com/file/d/13XwSZQI3rr-pVcf84mjbjaLBU3u3-p4_/view?usp=sharing">Continuous Integration (CI2.pdf)</a>
 </details>
 
-### Link to the .jar executable file.
-<a href="https://drive.google.com/file/d/18Z9tZHeaCeItrXPJ3hrTZo7PACtVBSsv/view?usp=sharing">LongBoiOnTheRun.jar (Assessment 1)</a>
-<br>
+##Link to JAR File 
 <a href="https://drive.google.com/file/d/1K-ny6QprQBAJsrYO8QFuW9_6MtL05_yU/view?usp=share_link">escape-from-uni-1.0.0.jar (Assessment 2)</a>
 
 ### Link to the version control repository (GitHub Commits Page)
