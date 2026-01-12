@@ -44,8 +44,22 @@ This was the first iteration of our architecture which has been expressed as a U
 <details>
 <summary><strong><span style="font-size: 1.6em;">Method Selection and Planning Documentation Additional Content</span></strong></summary>
 <h2>Gantt Charts for Weekly Snapshots</h2>
-<h3>Assessment 2</h3>
-Week 7
+<h2>Week 1 - Week 6 (Assessment 1) </h2>
+<h3>Week 1</h3>
+<img width="421" height="114" alt="week1" src="https://github.com/user-attachments/assets/bf725fec-c459-4ba0-89c3-587e6360e29f" />
+<h3>Week 2</h3>
+<img width="411" height="131" alt="week2" src="https://github.com/user-attachments/assets/92159bc5-641f-4860-9f9c-10e4b0093d8a" />
+<h3>Week 3</h3>
+<img width="222" height="148" alt="week3" src="https://github.com/user-attachments/assets/a018d81b-76aa-4df3-a2da-00d335a28c8d" />
+<h3>Week 4</h3>
+<img width="365" height="148" alt="week4" src="https://github.com/user-attachments/assets/9c55c21d-aee7-4faa-9faa-932a5f89b015" />
+<h3>Week 5</h3>
+<img width="177" height="131" alt="week5" src="https://github.com/user-attachments/assets/deba2dbc-6a5f-497a-ba5e-9144a0ada344" />
+<h3>Week 6</h3>
+<h3<img width="329" height="131" alt="week6" src="https://github.com/user-attachments/assets/847b77df-c7f9-4644-b453-020047ba7f5b" />
+<h2>Week 7-13 (Assessment 2)</h2>
+<h2>Assessment 2</h2>
+<h3>Week 7</h3>
 <br>
 <img width="444" height="228" alt="ProjectTimelineW7" src="https://github.com/user-attachments/assets/7e3eb9cc-5e04-4a80-b304-34bebf877e8f" />
 <br>
