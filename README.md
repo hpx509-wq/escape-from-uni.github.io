@@ -37,9 +37,6 @@ Maze game created using Java for ENG1.
 #Link to JAR File 
 <a href="https://drive.google.com/file/d/1K-ny6QprQBAJsrYO8QFuW9_6MtL05_yU/view?usp=share_link">escape-from-uni-1.0.0.jar (Assessment 2)</a>
 
-### Link to the version control repository (GitHub Commits Page)
-<a href="https://github.com/haarisaltaf/Team10Maze/commits/main/">Team10Maze Commits</a>
-
 <details>
 <summary><strong><span style="font-size: 1.6em;">Architecture Documentation Additional Content</span></strong></summary>
 
